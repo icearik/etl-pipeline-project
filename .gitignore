@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Data files (don't commit raw data dumps)
+data/*.csv
+data/*.json
+
+# IDE
+.vscode/
