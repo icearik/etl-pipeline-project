@@ -9,6 +9,7 @@ __pycache__/
 # Data files (don't commit raw data dumps)
 data/*.csv
 data/*.json
+data/*.db
 
 # IDE
 .vscode/
